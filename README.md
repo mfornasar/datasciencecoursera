@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-For Coursera's Data Scientis's Toolbox course
+For Coursera's Data Scientist's Toolbox course
